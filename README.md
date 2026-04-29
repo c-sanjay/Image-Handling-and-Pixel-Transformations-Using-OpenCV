@@ -209,31 +209,38 @@ plt.show()
 ```
 
 ## Output:
--Read and Display an Image:
+### Read and Display an Image:
 ![alt text](image.png)
 
--Display the image as Grayscale image:
+### Display the image as Grayscale image:
 ![alt text](image-1.png)
 
-- Crop the image to extract any specific (Eagle alone) object from the image:
+### Crop the image to extract any specific (Eagle alone) object from the image:
 
 ![alt text](image-2.png)
 
-- Flip the cropped image horizontally:
+### Flip the cropped image horizontally:
 ![alt text](image-3.png)
--Add the following text to the dark area at the bottom of the image (centered on the image):
+
+### Add the following text to the dark area at the bottom of the image (centered on the image):
 ![alt text](image-4.png)
--Draw a magenta rectangle that encompasses the launch tower and the rocket.
+
+### Draw a magenta rectangle that encompasses the launch tower and the rocket.
 ![alt text](image-5.png)
--Display the images (Original Image, Darker Image, Brighter Image).
+
+### Display the images (Original Image, Darker Image, Brighter Image).
 ![alt text](image-6.png)
--Display the images (Original, Lower Contrast, Higher Contrast).
+
+### Display the images (Original, Lower Contrast, Higher Contrast).
 ![alt text](image-7.png)
--Split the image (boy.jpg) into the B,G,R components & Display the channels.
+
+### Split the image (boy.jpg) into the B,G,R components & Display the channels.
 ![alt text](image-8.png)
--Split the image into the H, S, V components & Display the channels.
+
+### Split the image into the H, S, V components & Display the channels.
 ![alt text](image-9.png)
--Merged the H, S, V, display along with orginal image
+
+### Merged the H, S, V, display along with orginal image
 ![alt text](image-10.png)
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
